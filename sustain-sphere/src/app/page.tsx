@@ -1,4 +1,4 @@
-// import Image from 'next/image'
+// import Image from 'next/image'fdfd
 import {options} from "@/app/api/auth/[...nextauth]/options";
 import {getServerSession} from "next-auth";
 import UserCard from "./components/UserCard"
